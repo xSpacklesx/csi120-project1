@@ -15,5 +15,15 @@ a:hover
 
 body
 {
-    background-image: url();
+    background-image: url("https://raw.githubusercontent.com/xSpacklesx/csi120-project1/master/images/woodBG.jpg");
+}
+
+.container
+{
+    background-color: #b4da55;
+}
+
+h1
+{
+    color: #b32400;
 }
