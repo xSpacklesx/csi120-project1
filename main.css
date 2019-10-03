@@ -1,4 +1,19 @@
 nav
 {
-background-color: #f42069;    
+    background-color: #f42069;    
+}
+
+a
+{
+    color: #b4da55;
+}
+
+a:hover 
+{
+    color: #729220;
+}
+
+body
+{
+    background-image: url();
 }
