@@ -32,8 +32,10 @@ h1
 }
 .cottage1
 {
+    margin-top: 5px;
     height: 100%;
     width: 100%;
+    margin-bottom: 10px;
 }
 
 .shack1
@@ -52,8 +54,8 @@ p
     color: #b32400;
 }
 
-.spackPic
+#spackPic
 {
-    border-top: 15px;
+    margin-top: 15px;
     padding-bottom: 15px;
 }
