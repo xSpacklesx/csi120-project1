@@ -70,3 +70,11 @@ p
 {    
     padding-bottom: 25px;
 }
+
+.build-pic
+{
+    height: 100%;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
