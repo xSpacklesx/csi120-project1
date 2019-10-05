@@ -38,6 +38,8 @@ h1
     margin-bottom: 10px;
 }
 
+@media (min-width: 768px) 
+{
 .shack1
 {
     text-indent: 50px;
@@ -47,7 +49,10 @@ h1
 {
     text-indent: 100px;
 }
+    
+}
 
+}
 p
 {
     font-size: 24px;
@@ -77,4 +82,14 @@ p
     width: 100%;
     padding-top: 15px;
     padding-bottom: 15px;
+}
+
+#creper
+{    
+    width: 100%;
+}
+
+.pricePic
+{
+    width: 100%;
 }
